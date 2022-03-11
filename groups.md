@@ -57,4 +57,8 @@ Okwuigbo ifeanyi Christian
    Illia Prazdnyk 
    Nikita Iakovlev
    Denis Kiselnikov
+   Group # 006
+   Farrukh Alinazarov
+   Nurbulat Shektbayev
+   Mahsa Asadieydivand
 
